@@ -1,3 +1,7 @@
+**Why forking ?**
+
+ Because we made a fix for the issue with requestAnimationFrame on IE/Edge for webpack users.
+
 ZRender
 =======
 
